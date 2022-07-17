@@ -29,10 +29,12 @@ header {
 
 .logo {
 	cursor: pointer;
-	color: whitesmoke;
-	font-family: "Montserrat", sans-serif;
-	font-weight: 500;
+	width: 1%;
+	/*color: whitesmoke;*/
+	/*font-family: "Montserrat", sans-serif;*/
+	/*font-weight: 500;*/
 }
+
 
 .nav_links {
 	list-style: none;
@@ -89,7 +91,7 @@ button:hover {
 	flex: 0.5;
 	margin: 10px;
 	position: relative;
-	/*-webkit-transition: all 700ms ease-in;*/
+	-webkit-transition: all 700ms ease-in;
 }
 
 .panel h3 {
